@@ -1,6 +1,6 @@
 # Kapitolyo High School 2025
 
-## List Student's:
+## List of Student's:
 Batch 1
 - Lucjan Nino Flores
 - DJ Taller
